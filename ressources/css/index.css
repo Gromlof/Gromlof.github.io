@@ -1,6 +1,10 @@
-html{
-    background-color: darkslategrey;
+nav{
+    background-color: wheat;
 }
-h1{
-    color: white;
+img{
+    width: 100%;
+}
+.section2{
+    display: flex;
+    flex-direction: column;
 }
