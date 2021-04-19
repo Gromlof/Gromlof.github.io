@@ -2,6 +2,8 @@ body{
     background-image: url(../images/patrick-perkins\ city_from_a_far_red_atmosphere.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position-y: bottom;
+    height: 1100px;
     overflow: hidden;
     font-family:Open Sans;
 }
